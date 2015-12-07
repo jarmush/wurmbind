@@ -1,6 +1,0 @@
-bind F12 "// crops"
-bind Ctrl+F12 "// crops"
-bind X SOW
-bind C FARM
-// also for gathering grass and reed
-bind Shift-C HARVEST

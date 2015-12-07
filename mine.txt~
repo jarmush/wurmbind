@@ -2,4 +2,5 @@ bind F12 "// mine"
 bind Ctrl+F12 "// mine"
 bind X PROSPECT
 bind C MINE_FORWARD
-bind Shift-C MINE_TUNNEL
+bind Shift-C  MINE_UP
+bind Shift-X  MINE_DOWN
