@@ -31,6 +31,7 @@ bind Alt+W CLIMB_UP
 bind R TAKE
 bind T DROP
 bind Y PRAY
+bind Shift+T DROP_AS_PILE
 bind I "toggle inventory"
 bind O MAIN_MENU
 bind P TOGGLE_CHARACTER
@@ -43,7 +44,7 @@ bind F EXAMINE
 bind H FIRSTAID
 bind Alt+C TOGGLE_CLIMB
 bind Z LEVEL
-bind Shift+X FLATTEN
+bind Shift+X FLATTEN_BORDER
 bind Shift+Z LEVEL
 bind X DIG
 bind Shift+V CLOSE
