@@ -1,5 +1,5 @@
 #Wurm Unlimited client properties
-#Tue Dec 08 08:31:01 MSK 2015
+#Tue Dec 08 12:42:49 MSK 2015
 show_body_in_inventory=false
 enable_contribution_culling=false
 sound_cache_enabled=true

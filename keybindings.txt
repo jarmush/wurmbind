@@ -42,14 +42,14 @@ bind D MOVE_RIGHT
 bind F EXAMINE
 bind H FIRSTAID
 bind Alt+C TOGGLE_CLIMB
-bind Z PLANT_CENTER
-bind Shift+X PRUNE
+bind Z LEVEL
+bind Shift+X FLATTEN
 bind Shift+Z LEVEL
-bind X CUT_DOWN
+bind X DIG
 bind Shift+V CLOSE
-bind C CHOP_UP
+bind C PACK
 bind V OPEN
-bind Shift+C PICK_SPROUT
+bind Shift+C CULTIVATE
 bind B AUTORUN
 bind N TOGGLE_CRAFTING_RECIPES
 bind M TOGGLE_MAP
@@ -99,9 +99,9 @@ bind Numpad0 FOCUS
 bind Ctrl+Shift+F11 "exec distance_long.txt"
 bind Decimal SHIELD_BASH
 bind Shift+F11 "exec base.txt"
-bind F12 "// wood"
+bind F12 "// dig"
 bind Shift+F12 "quit"
-bind Ctrl+F12 "// wood"
+bind Ctrl+F12 "// dig"
 bind Divide DEFEND_LEFT
 bind Up MOVE_FORWARD
 bind Prior TURN_UP

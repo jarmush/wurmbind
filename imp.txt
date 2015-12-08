@@ -1,6 +1,8 @@
 // Base script for all modes for crafting and improving items.
+bind F12 "// imp"
+bind Ctrl+F12 "// imp"
 bind X REPAIR
 bind Shift-X CONTINUE
 bind C IMPROVE
 bind Shift-C FINISH
-bind Z ADD_TO_CRAFTING_WINDOW 
+bind Z ADD_TO_CRAFTING_WINDOW
