@@ -3,4 +3,4 @@ bind X REPAIR
 bind Shift-X CONTINUE
 bind C IMPROVE
 bind Shift-C FINISH
-
+bind Z ADD_TO_CRAFTING_WINDOW 

@@ -1,5 +1,5 @@
 #Wurm Unlimited client properties
-#Mon Dec 07 14:29:15 MSK 2015
+#Tue Dec 08 08:31:01 MSK 2015
 show_body_in_inventory=false
 enable_contribution_culling=false
 sound_cache_enabled=true
@@ -148,29 +148,29 @@ use_nagles_algorithm=false
 sound_play_work=true
 skillgain_minimum=5
 fps_limit=60
-silent_friends_update=false
-cavedetail=2
 sound_play_weather=true
+cavedetail=2
+silent_friends_update=false
 keyboard_layout=0
-no_brightness=false
 inverse_mouse=false
+no_brightness=false
 fbo_enabled=2
 hint_texture_scaling=1
 sound_play_music=false
 show_old_quickbar=false
 fps_limit_background=30
-hide_menu_spam_mode=true
-render_sun_glare=false
 non_power_of_two=2
-sound_play_door=true
+render_sun_glare=false
+hide_menu_spam_mode=true
 font_bold=11
-sound_footstepslevel=10
+sound_play_door=true
 model_loading_threads=1
-hide_menu_stop=false
+sound_footstepslevel=10
 color_green=0.08,1.0,0.08
+hide_menu_stop=false
 irc_notif=0
-sound_play_footsteps=true
 glsl_enabled=2
+sound_play_footsteps=true
 shadow_level=0
 fov_horizontal=80
 setting_timestamps=true
