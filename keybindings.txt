@@ -7,8 +7,8 @@
 // So if you ever manage to mess up this file, just delete it to get a clean one.
 bind Escape STOP
 bind 1 ACTIVATE_TOOL1
-bind Mouse3 AUTORUN
 bind 2 ACTIVATE_TOOL2
+bind Mouse3 AUTORUN
 bind 3 ACTIVATE_TOOL3
 bind Mouse4 "toggle mouselook"
 bind 4 ACTIVATE_TOOL4
@@ -30,8 +30,8 @@ bind E TURN_RIGHT
 bind Alt+W CLIMB_UP
 bind R TAKE
 bind T DROP
-bind Shift+T DROP_AS_PILE
 bind Y PRAY
+bind Shift+T DROP_AS_PILE
 bind I "toggle inventory"
 bind O MAIN_MENU
 bind P TOGGLE_CHARACTER
@@ -45,8 +45,8 @@ bind H FIRSTAID
 bind Alt+C TOGGLE_CLIMB
 bind Z LEVEL
 bind Shift+X FLATTEN_BORDER
-bind X DIG
 bind Shift+Z LEVEL
+bind X DIG
 bind Shift+V CLOSE
 bind C PACK
 bind V OPEN
@@ -57,25 +57,25 @@ bind M TOGGLE_MAP
 bind Multiply DEFEND_UPPER
 bind Ctrl+F2 "exec carp.txt"
 bind Ctrl+F3 "exec leather.txt"
-bind Shift+F1 "toggle console"
 bind Ctrl+F4 "exec cloth.txt"
+bind Shift+F1 "toggle console"
 bind Ctrl+Shift+F5 "say /fsleep"
 bind F1 "exec mine.txt"
 bind Ctrl+F5 "exec pottery.txt"
-bind Shift+F3 "toggle inventory"
 bind F2 "exec dig.txt"
-bind Shift+F2 "toggle skills"
+bind Shift+F3 "toggle inventory"
 bind F3 "exec wood.txt"
-bind Shift+F5 "say /sleep"
+bind Shift+F2 "toggle skills"
 bind F4 "exec crops.txt"
+bind Shift+F5 "say /sleep"
 bind Ctrl+Shift+F1 "say guards!"
 bind F5 "exec animals.txt"
 bind Ctrl+F1 "exec smith.txt"
 bind Shift+F4 "say /weather"
 bind F6 "exec forage.txt"
 bind Shift+F7 "say /uptime"
-bind Shift+F6 "say /time"
 bind F7 "exec imp.txt"
+bind Shift+F6 "say /time"
 bind Ctrl+Shift+F10 "exec distance_short.txt"
 bind F8 "exec move.txt"
 bind Shift+F9 "toggle options"
@@ -101,6 +101,7 @@ bind Ctrl+Shift+F11 "exec distance_long.txt"
 bind Decimal SHIELD_BASH
 bind Shift+F11 "exec base.txt"
 bind F12 "// dig"
+bind Shift+F12 "quit"
 bind Ctrl+F12 "// dig"
 bind Divide DEFEND_LEFT
 bind Up MOVE_FORWARD
