@@ -1,0 +1,112 @@
+// This file contains your saved key bindings, DO NOT EDIT IT.
+// The contents are replaced with your active keybinds every time you quit the game.
+// If you want to add a new key binding, use bind in the game console instead.
+// Use autorun.txt for non-bind commands that should run on game start.
+
+// This file will be automatically created with default values if it is missing.
+// So if you ever manage to mess up this file, just delete it to get a clean one.
+bind Escape STOP
+bind 1 ACTIVATE_TOOL1
+bind Mouse3 AUTORUN
+bind 2 ACTIVATE_TOOL2
+bind 3 ACTIVATE_TOOL3
+bind Mouse4 "toggle mouselook"
+bind 4 ACTIVATE_TOOL4
+bind 5 ACTIVATE_TOOL5
+bind 6 ACTIVATE_TOOL6
+bind 7 ACTIVATE_TOOL7
+bind 8 SPECIAL_MOVE1
+bind Ctrl+Shift+Tab PREVIOUS_WINDOW
+bind 9 SPECIAL_MOVE2
+bind Ctrl+Tab NEXT_WINDOW
+bind 0 SPECIAL_MOVE3
+bind Minus SPECIAL_MOVE4
+bind Equals SPECIAL_MOVE5
+bind Shift+Tab PREVIOUS_TAB
+bind Tab ACTIVATE
+bind Q TURN_LEFT
+bind W MOVE_FORWARD
+bind E TURN_RIGHT
+bind Alt+W CLIMB_UP
+bind R TAKE
+bind T DROP
+bind Shift+T DROP_AS_PILE
+bind Y PRAY
+bind I "toggle inventory"
+bind O MAIN_MENU
+bind P TOGGLE_CHARACTER
+bind Return TOGGLE_CHAT
+bind Alt+S CLIMB_DOWN
+bind A MOVE_LEFT
+bind S MOVE_BACK
+bind D MOVE_RIGHT
+bind F EXAMINE
+bind H FIRSTAID
+bind Alt+C TOGGLE_CLIMB
+bind Z LEVEL
+bind Shift+X FLATTEN_BORDER
+bind X DIG
+bind Shift+Z LEVEL
+bind Shift+V CLOSE
+bind C PACK
+bind V OPEN
+bind Shift+C CULTIVATE
+bind B AUTORUN
+bind N TOGGLE_CRAFTING_RECIPES
+bind M TOGGLE_MAP
+bind Multiply DEFEND_UPPER
+bind Ctrl+F2 "exec carp.txt"
+bind Ctrl+F3 "exec leather.txt"
+bind Shift+F1 "toggle console"
+bind Ctrl+F4 "exec cloth.txt"
+bind Ctrl+Shift+F5 "say /fsleep"
+bind F1 "exec mine.txt"
+bind Ctrl+F5 "exec pottery.txt"
+bind Shift+F3 "toggle inventory"
+bind F2 "exec dig.txt"
+bind Shift+F2 "toggle skills"
+bind F3 "exec wood.txt"
+bind Shift+F5 "say /sleep"
+bind F4 "exec crops.txt"
+bind Ctrl+Shift+F1 "say guards!"
+bind F5 "exec animals.txt"
+bind Ctrl+F1 "exec smith.txt"
+bind Shift+F4 "say /weather"
+bind F6 "exec forage.txt"
+bind Shift+F7 "say /uptime"
+bind Shift+F6 "say /time"
+bind F7 "exec imp.txt"
+bind Ctrl+Shift+F10 "exec distance_short.txt"
+bind F8 "exec move.txt"
+bind Shift+F9 "toggle options"
+bind F9 "exec loot.txt"
+bind Shift+F8 "toggle spelleffects"
+bind F10 "exec mount.txt"
+bind Shift+F10 MAIN_MENU
+bind Ctrl+Shift+F9 "setoption sound_al_gain 20"
+bind Numpad7 AIM_UPPER_LEFT
+bind Ctrl+Shift+F8 "setoption sound_al_gain 0"
+bind Numpad8 AIM_UPPER_MIDDLE
+bind Numpad9 AIM_UPPER_RIGHT
+bind Subtract DEFEND_LOWER
+bind Numpad4 AIM_LEFT
+bind Numpad5 AIM_MIDDLE
+bind Numpad6 AIM_RIGHT
+bind Add DEFEND_RIGHT
+bind Numpad1 AIM_LOWER_LEFT
+bind Numpad2 AIM_LOWER_MIDDLE
+bind Numpad3 AIM_LOWER_RIGHT
+bind Numpad0 FOCUS
+bind Ctrl+Shift+F11 "exec distance_long.txt"
+bind Decimal SHIELD_BASH
+bind Shift+F11 "exec base.txt"
+bind F12 "// dig"
+bind Ctrl+F12 "// dig"
+bind Divide DEFEND_LEFT
+bind Up MOVE_FORWARD
+bind Prior TURN_UP
+bind Left TURN_LEFT
+bind Right TURN_RIGHT
+bind Down MOVE_BACK
+bind Next TURN_DOWN
+bind Insert STRAFE
