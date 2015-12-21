@@ -111,7 +111,7 @@ bind Shift+F4 "say /weather"
 bind Shift+F5 "say /sleep"
 bind Shift+F6 "say /time"
 bind Shift+F7 "say /uptime"
-bind Shift+F8 "toggle spelleffects"
+bind Shift+F8 "say /fatigue"
 bind Shift+F9 "toggle options"
 bind Shift+F10 MAIN_MENU
 bind Shift+F11 "exec base.txt"
