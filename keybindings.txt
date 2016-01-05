@@ -7,10 +7,10 @@
 // So if you ever manage to mess up this file, just delete it to get a clean one.
 bind Escape STOP
 bind 1 ACTIVATE_TOOL1
-bind 2 ACTIVATE_TOOL2
 bind Mouse3 AUTORUN
+bind 2 ACTIVATE_TOOL2
 bind 3 ACTIVATE_TOOL3
-bind Mouse4 "toggle mouselook"
+bind Mouse4 TAKE
 bind 4 ACTIVATE_TOOL4
 bind 5 ACTIVATE_TOOL5
 bind 6 ACTIVATE_TOOL6
@@ -29,9 +29,9 @@ bind W MOVE_FORWARD
 bind E TURN_RIGHT
 bind Alt+W CLIMB_UP
 bind R TAKE
-bind T DROP
+bind T DROP_AS_PILE
+bind Shift+T DROP
 bind Y PRAY
-bind Shift+T DROP_AS_PILE
 bind I "toggle inventory"
 bind O MAIN_MENU
 bind P TOGGLE_CHARACTER
@@ -57,30 +57,30 @@ bind M TOGGLE_MAP
 bind Multiply DEFEND_UPPER
 bind Ctrl+F2 "exec carp.txt"
 bind Ctrl+F3 "exec leather.txt"
-bind Ctrl+F4 "exec cloth.txt"
 bind Shift+F1 "toggle console"
+bind Ctrl+F4 "exec cloth.txt"
 bind Ctrl+Shift+F5 "say /fsleep"
 bind F1 "exec mine.txt"
 bind Ctrl+F5 "exec pottery.txt"
-bind F2 "exec dig.txt"
 bind Shift+F3 "toggle inventory"
-bind F3 "exec wood.txt"
+bind F2 "exec dig.txt"
 bind Shift+F2 "toggle skills"
-bind F4 "exec crops.txt"
+bind F3 "exec wood.txt"
 bind Shift+F5 "say /sleep"
+bind F4 "exec crops.txt"
 bind Ctrl+Shift+F1 "say guards!"
 bind F5 "exec animals.txt"
 bind Ctrl+F1 "exec smith.txt"
 bind Shift+F4 "say /weather"
 bind F6 "exec forage.txt"
 bind Shift+F7 "say /uptime"
-bind F7 "exec imp.txt"
 bind Shift+F6 "say /time"
+bind F7 "exec imp.txt"
 bind Ctrl+Shift+F10 "exec distance_short.txt"
 bind F8 "exec move.txt"
 bind Shift+F9 "toggle options"
 bind F9 "exec loot.txt"
-bind Shift+F8 "toggle spelleffects"
+bind Shift+F8 "say /fatigue"
 bind F10 "exec mount.txt"
 bind Shift+F10 MAIN_MENU
 bind Ctrl+Shift+F9 "setoption sound_al_gain 20"

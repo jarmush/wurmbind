@@ -24,15 +24,15 @@ bind Alt+S CLIMB_DOWN
 bind Mouse3 AUTORUN
 bind B AUTORUN
 
-bind Mouse4 "toggle mouselook"
+bind Mouse4 TAKE
 
 bind Alt+C TOGGLE_CLIMB
 
 
 // Item handling
 
-bind T DROP
-bind Shift+T DROP_AS_PILE
+bind Shift+T DROP
+bind T DROP_AS_PILE
 bind R TAKE
 bind F EXAMINE
 bind V OPEN
