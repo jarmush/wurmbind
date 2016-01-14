@@ -44,6 +44,7 @@ bind Tab ACTIVATE
 bind Y PRAY
 bind Escape STOP
 bind H FIRSTAID
+bind Shift-H "say help"
 
 // Toolbelt
 
@@ -124,7 +125,7 @@ bind Ctrl+Shift+F5 "say /fsleep"
 bind Ctrl+Shift+F6 ""
 bind Ctrl+Shift+F7 ""
 bind Ctrl+Shift+F8 "setoption sound_al_gain 0"
-bind Ctrl+Shift+F9 "setoption sound_al_gain 20"
+bind Ctrl+Shift+F9 "setoption sound_al_gain 5"
 bind Ctrl+Shift+F10 "exec distance_short.txt"
 bind Ctrl+Shift+F11 "exec distance_long.txt"
 bind Ctrl+Shift+F12 ""

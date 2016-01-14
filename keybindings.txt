@@ -41,16 +41,17 @@ bind A MOVE_LEFT
 bind S MOVE_BACK
 bind D MOVE_RIGHT
 bind F EXAMINE
+bind Shift+H "say help"
 bind H FIRSTAID
 bind Alt+C TOGGLE_CLIMB
-bind Z LEVEL
-bind Shift+X FLATTEN_BORDER
+bind Z TUNNEL
+bind Shift+X MINE_DOWN
 bind Shift+Z LEVEL
-bind X DIG
+bind X PROSPECT
 bind Shift+V CLOSE
-bind C PACK
+bind C MINE_FORWARD
 bind V OPEN
-bind Shift+C CULTIVATE
+bind Shift+C MINE_UP
 bind B AUTORUN
 bind N TOGGLE_CRAFTING_RECIPES
 bind M TOGGLE_MAP
@@ -83,7 +84,7 @@ bind F9 "exec loot.txt"
 bind Shift+F8 "say /fatigue"
 bind F10 "exec mount.txt"
 bind Shift+F10 MAIN_MENU
-bind Ctrl+Shift+F9 "setoption sound_al_gain 20"
+bind Ctrl+Shift+F9 "setoption sound_al_gain 5"
 bind Numpad7 AIM_UPPER_LEFT
 bind Ctrl+Shift+F8 "setoption sound_al_gain 0"
 bind Numpad8 AIM_UPPER_MIDDLE
@@ -100,9 +101,9 @@ bind Numpad0 FOCUS
 bind Ctrl+Shift+F11 "exec distance_long.txt"
 bind Decimal SHIELD_BASH
 bind Shift+F11 "exec base.txt"
-bind F12 "// dig"
+bind F12 "// mine"
 bind Shift+F12 "quit"
-bind Ctrl+F12 "// dig"
+bind Ctrl+F12 "// mine"
 bind Divide DEFEND_LEFT
 bind Up MOVE_FORWARD
 bind Prior TURN_UP
